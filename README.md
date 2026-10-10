@@ -1,11 +1,4 @@
-
-<table>
-  <tr>
-    <td width="50%" style="border: none;">
-      <img src="./profile/stats.svg" alt="Stats" width="100%" />
-    </td>
-    <td width="50%" style="border: none;">
-      <img src="./profile/top-langs.svg" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
+  <img src="./profile/stats.svg" alt="Stats" style="height: 200px;" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" style="height: 200px;" />
+</div>
